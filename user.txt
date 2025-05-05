@@ -1,0 +1,110 @@
+manager
+John Doe
+manager123!
+Manager
+0173880098
+john@gmail.com
+Approved
+null
+0
+
+ali
+Ali bin Abu
+ali12345!
+Staff
+0189987788
+ali@mail.com
+Approved
+null
+0
+
+qianru
+Beh Qian Ru
+qianru123!
+Resident
+0173883365
+behqianru@gmail.com
+Approved
+2002
+1
+
+abu
+Abu bin Ali
+abu12345!
+Manager
+0190987654
+TP076900@mail.apu.edu.my
+Inactive
+null
+0
+
+alice
+Lee Alice
+alice123!
+Manager
+0121230987
+alice@mail.com
+Rejected
+null
+0
+
+mark
+Mark Tuan
+mark123!
+Resident
+0190887765
+markt@mail.com
+Approved
+2001
+2
+
+serene
+Serene Tan Yi Xuan
+serene123!
+Resident
+0115228876
+serene@mail.com
+Approved
+1003
+3
+
+rajesh
+Rajesh Kumar
+rajesh123!
+Resident
+0190877789
+rajesg@mail.com
+Approved
+1001
+1
+
+alif
+Alif Khaildi bin Muhammad
+alif123!
+Resident
+0162114321
+alif@mail.com
+Approved
+1002
+4
+
+jackson
+Jackson Wang
+jackson123!
+Staff
+01900998877
+jackson@mail.com
+Approved
+null
+0
+
+lily
+Lily Lim
+lily123!
+Staff
+0161120099
+lily@mail.com
+Approved
+null
+0
+
